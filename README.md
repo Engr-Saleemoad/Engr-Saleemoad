@@ -1,5 +1,7 @@
 <!-- Typing SVG -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&color=%2336BCF7&lines=Hello+there!+I'm+Saleem+Oad.;Welcome+to+my+GitHub+Profile!)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=%2336BCF7&size=24&lines=Hello+there!+I'm+Saleem+Oad.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+</div>
 
 # Saleem Oad
 
@@ -15,20 +17,23 @@
 - ✨ I have 3+ years of tech experience in product development, graphics & UI/UX design, community management, content & technical writing.
 - 📫 Reach me via Telegram DM [@AsharibAli](https://t.me/AsharibAli)!
 
-### Connect with me on 🤝
-- [Email](mailto:your-email@example.com)
-- [Telegram](https://t.me/AsharibAli)
-- [Twitter](https://twitter.com/your-handle)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Facebook](https://facebook.com/your-profile)
-- [Instagram](https://instagram.com/your-profile)
-- [YouTube](https://youtube.com/your-channel)
-- [Fiverr](https://fiverr.com/your-profile)
-- [Medium](https://medium.com/@your-profile)
+<div align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/AsharibAli"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://facebook.com/your-profile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/your-profile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://youtube.com/your-channel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://fiverr.com/your-profile"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+  <a href="https://medium.com/@your-profile"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</div>
 
 ### 🏷️ Github Stats
-![Saleem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true)
-![Saleem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true" alt="Saleem's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true" alt="Saleem's Top Languages">
+</div>
 
 ### ⚡ Skills
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -40,4 +45,6 @@
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/your-github-username)
+<div align="center">
+  <img src="https://gpvc.arturio.dev/your-github-username" alt="Profile views">
+</div>
