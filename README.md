@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=%2336BCF7&size=35&lines=Hello+there!+I'm+Saleem+Oad.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=%23FFA500&size=36&lines=Hello+there!+I'm+Saleem+Oad.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
 </div>
 
 # Saleem Oad
@@ -31,17 +31,23 @@
 
 ### 🏷️ Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true" alt="Saleem's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true" alt="Saleem's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true" alt="Saleem's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true" alt="Saleem's Top Languages" width="48%">
 </div>
 
 ### ⚡ Skills
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![HTML Progress](https://progress-bar.dev/100/?title=HTML&color=E34F26)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![CSS Progress](https://progress-bar.dev/100/?title=CSS&color=1572B6)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![JavaScript Progress](https://progress-bar.dev/100/?title=JavaScript&color=F7DF1E)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![TypeScript Progress](https://progress-bar.dev/100/?title=TypeScript&color=007ACC)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![React Progress](https://progress-bar.dev/100/?title=React&color=61DAFB)
+- ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
+  ![Photoshop Progress](https://progress-bar.dev/100/?title=Photoshop&color=31A8FF)
 
 ---
 
