@@ -54,6 +54,7 @@
 
 <h2 align="center">📝 Education</h2>
 
+<img src="https://media.istockphoto.com/id/1803992649/vector/software-development-coding-process-concept-programming-testing-cross-platform-code-app-on.jpg?s=1024x1024&w=is&k=20&c=B-4bjQh6DcCKFBwi0HiEi3Us5TLicgrZBaU7lvgGNf">
 <p align="center">
   <b>Harvard Business School Online</b><br>
   <i>CS50: Introduction to Computer Science</i><br><br>
