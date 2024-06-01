@@ -1,6 +1,10 @@
 <h1 align="center">Saleem Oad</h1>
 
-<h3 align="center"><i>I am a Frontend Developer</i></h3>
+<h3 align="center">
+  <a href="#" style="color: orange;">I am a Frontend Developer</a>
+  <a href="#" style="color: blue; animation: typing 2s steps(22, end) infinite;">I am a Frontend Developer</a>
+  <a href="#" style="color: black; animation: typing 2s steps(22, end) infinite;">I am a Frontend Developer</a>
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
