@@ -7,23 +7,6 @@
 </h3> 
 <p align="center"> <img src="https://media.licdn.com/dms/image/D5612AQFlxMRpK-On8g/article-cover_image-shrink_720_1280/0/1670602482212?e=1722470400&v=beta&t=Pv01C3NLcIacT4DXFsa-TjL-NiLuefb8mb9-2-9vi9o" width="400px" style="border-radius: 10px;" > </p>
 
-# <span id="typewriter"></span>
-
-<script>
-  // Typewriter effect script
-  const text = "Saleem Oad";
-  let index = 0;
-
-  function typeWriter() {
-    if (index < text.length) {
-      document.getElementById("typewriter").innerHTML += text.charAt(index);
-      index++;
-      setTimeout(typeWriter, 200);
-    }
-  }
-
-  typeWriter();
-</script>
 
 ### <a href="#" style="color: orange;">I am a Frontend Developer</a>
 ### <a href="#" style="color: blue;">I am a Frontend Developer</a>
