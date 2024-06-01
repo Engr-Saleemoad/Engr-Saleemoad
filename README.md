@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=%23FFA500&size=36&lines=Hello+there!+I'm+Saleem+Oad.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=23FFA500&size=36&lines=Hello+there!+I'm+Saleem+Oad.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
 </div>
 
 # Saleem Oad
