@@ -5,7 +5,7 @@
   <a href="#" style="color: blue; animation: typing 2s steps(22, end) infinite;">I am a Frontend Developer</a>
   <a href="#" style="color: black; animation: typing 2s steps(22, end) infinite;">I am a Frontend Developer</a>
 </h3> 
-<p align="center"> <img src="https://media.licdn.com/dms/image/D5612AQFlxMRpK-On8g/article-cover_image-shrink_720_1280/0/1670602482212?e=1722470400&v=beta&t=Pv01C3NLcIacT4DXFsa-TjL-NiLuefb8mb9-2-9vi9o" width="400px"  style="border-radius:50px;" > </p>
+<p align="center"> <img src="https://media.licdn.com/dms/image/D5612AQFlxMRpK-On8g/article-cover_image-shrink_720_1280/0/1670602482212?e=1722470400&v=beta&t=Pv01C3NLcIacT4DXFsa-TjL-NiLuefb8mb9-2-9vi9o" width="400px" style="border-radius: 10px;" > </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
