@@ -5,7 +5,7 @@
   <a href="#" style="color: blue; animation: typing 2s steps(22, end) infinite;">I am a Frontend Developer</a>
   <a href="#" style="color: black; animation: typing 2s steps(22, end) infinite;">I am a Frontend Developer</a>
 </h3> 
-<p align="center"> <img src="https://png.pngtree.com/png-vector/20240320/ourlarge/pngtree-coding-clipart-guy-in-glasses-computer-tech-cartoon-vector-illustration-png-image_11957889.png" width="400px" style="border-radius: 10px;" > </p>
+<p align="center"> <img src="https://png.pngtree.com/png-vector/20240320/ourlarge/pngtree-coding-clipart-guy-in-glasses-computer-tech-cartoon-vector-illustration-png-image_11957889.png" width="300px" style="border-radius: 10px;" > </p>
 
 
 <p align="center">
