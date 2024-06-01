@@ -5,7 +5,7 @@
   <a href="#" style="color: blue; animation: typing 2s steps(22, end) infinite;">I am a Frontend Developer</a>
   <a href="#" style="color: black; animation: typing 2s steps(22, end) infinite;">I am a Frontend Developer</a>
 </h3>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Ftop-15-best-coding-apps-beginners-2023-mehedi-hasan&psig=AOvVaw07WMQ3Bd_IbPi2TlQEm360&ust=1717337282342000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOD6tIvKuoYDFQAAAAAdAAAAABAE"/>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
